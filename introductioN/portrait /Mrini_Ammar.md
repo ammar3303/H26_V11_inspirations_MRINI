@@ -1,3 +1,3 @@
 # Ammar Mrini
 
-![photo](photo/dubaiam.jpg)
+![photo](photo/dubai_am.jpg)
