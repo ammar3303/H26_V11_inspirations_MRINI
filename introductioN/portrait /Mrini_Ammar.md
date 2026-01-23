@@ -1,7 +1,7 @@
 # Ammar Mrini
 
-![photo](photo/dubai_am.JPG)
-
+![photo](photo/van_gogh.jpg)
+>Cette image me represente pour son coté abstrée et calm d'écran du site web https://thedali.org/exhibit/van-gogh-alive-360-exhibit/, consulté le 23 janvier 2026.
 
 
 
