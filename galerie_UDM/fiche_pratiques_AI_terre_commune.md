@@ -7,7 +7,10 @@
 L'œuvre de l'artiste Marion Schneider, intitulée *Terre commune*, s'inscrit dans le cadre de l'exposition  **(Devenirs partagés. Pratiques de l'IA en 2025.)** Ce projet découle d'une résidence de recherche-création à la Galerie de l'Université de Montréal, réalisée en collaboration avec IVADO. L'installation explore les points de contact entre la cognition humaine, l'intelligence artificielle (IA) et les écosystèmes naturels. Au cœur de cette démarche, l'artiste propose une réflexion sur la technologie avec la penssé, favorisant une conection harmonieuse entre les humains, les machines et les forêts. L'œuvre nous invite à une méditation sur nos interdépendances, s'éloignant des visions purement automatisées de l'IA pour privilégier une approche sensible.
 
 ![photo](media/04_affiche_expo.jpg) ![photo](media/05_cartel_alicia.jpg)  
->**Le cartel de l'œuvre « Terre commune » et l'affiche de l'exposition à la Galerie de l'Université de Montréal.** (Photos prises par Alicia Castilloux, le 30 janvier 2026.) 
+>**Le cartel de l'œuvre « Terre commune » et l'affiche de l'exposition à la Galerie de l'Université de Montréal.** (Photos prises par Alicia Castilloux, le 30 janvier 2026.)
+
+# QUI EST MARION SCHNEIDER
+ Marion Schneider est une artiste numérique non-binaire qui vit et travaille à Montréal. Sa pratique interdisciplinaire est engagée et poétique, explorant le sentimentalisme, la queerness et l'écologie à travers la robotique, les installations et l'art web.
 
 # DESCRIPTION DE L'OEUVRE
 L'œuvre est une installation immersive et interactive d'une grande complexité technique. Le dispositif utilise une IA générative entraînée à partir de photographies de sols forestiers captées par l'artiste dans les Laurentides. La dimension multimédia est ici centrale : le public est invité à porter un casque EEG (électroencéphalographie). L'activité cérébrale du visiteur — plus précisément les ondes alpha liées à la relaxation — influence en temps réel la génération des visuels projetés, créant un dialogue direct entre l'esprit et l'image.
@@ -29,7 +32,8 @@ Gros plan sur les structures d'aluminium et les composantes qui soutiennent ce d
 Ce qui m'a le plus impressionné dans le travail de Marion Schneider, c'est cette idée de "co-ancrage" entre l'humain, la machine et la forêt. L'expérience de voir ses propres ondes cérébrales influencer des images de nature générées par IA est fascinante et donne beaucoup d'idées pour l'utilisation des bioscapteurs en création multimédia. L'aspect que je retiendrais comme défi pour de futurs projets est la complexité de calibrer un casque EEG dans un environnement public pour s'assurer que l'interactivité reste fluide pour chaque visiteur.
 
 # RÉFÉRENCES
-**<https://galerie.umontreal.ca/expositions-en-cours.php>**
-**<[https://galerie.umontreal.ca/expositions-en-cours.php](https://www.bing.com/maps/directions?ty=0&v=2&sV=1&style=r&rtp=%7Epos.45.50447082519531_-73.62091064453125__Centre%2520d%27exposition%2520de%2520l%27Universit%25C3%25A9%2520de%2520Montr%25C3%25A9al_&mode=d&cp=45.504471%7E-73.620911&lvl=16)>**
+**<https://galerie.umontreal.ca/expositions-en-cours.php>** consulté le 12 fevrier 2026. 
+**<https://nouvelles.umontreal.ca/article/2025/12/04/quatre-artistes-repensent-l-intelligence-artificielle>** consulté le 13 fevrier 2026.
+**<https://schneidermarion.net/>** consulté le 12 fevrier 2026.
 
 Ammar Mrini
