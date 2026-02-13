@@ -15,7 +15,7 @@ L'œuvre est une installation immersive et interactive d'une grande complexité 
 ![photo](media/07_oeuvre_alicia.jpg) 
 >Vue d'ensemble de la mise en espace de l'œuvre. (Photo prise par Alicia Castilloux, le 30 janvier 2026.)
 
-# COMPOSANTES TECHNIQUES ET croquis
+# COMPOSANTES TECHNIQUES ET CROQUIS 
 Sur le plan technique, l'installation regroupe plusieurs éléments sophistiqués :
 Matériel : Ordinateur, casque EEG, extrusions d'aluminium, acrylique et écrans dénudés.
 Logiciels et IA : Utilisation du modèle StyleGAN pour la navigation dans l'espace latent et de ressources comme Autolume et TouchDesigner.
