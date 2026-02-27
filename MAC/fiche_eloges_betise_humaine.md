@@ -1,12 +1,14 @@
 # MON EXPÉRIENCE À UNE EXPOSITION ARTISTIQUE AU MUSÉE D'ART CONTEMPORAIN DE MONTRÉAL
 
 # L'EXPOSITION ET SON CONTEXTE
-L'œuvre de l'artiste Joyce Joumaa, intitulée *Bêtise humaine* (2025), s'inscrit dans le cadre de l'exposition collective **« Éloges de l'image manquante »**, présentée lors de la 19e édition de la biennale MOMENTA. Ce projet de grande envergure se déploie au Musée d'art contemporain de Montréal (MAC), actuellement situé à Place Ville Marie. L'installation explore les tensions postcoloniales et la mémoire collective à travers le prisme du sport et de l'histoire. Au cœur de cette démarche, l'artiste propose une réflexion sur la psychologie sociale nationale , utilisant des archives pour mettre en lumière les silences et les non-dits des relations entre la France et l'Algérie. L'œuvre nous invite à une méditation sur la manière dont les espaces publics, comme un stade de football, deviennent des lieux de confrontation identitaire.
+> L'œuvre de l'artiste Joyce Joumaa, intitulée *Bêtise humaine* (2025), s'inscrit dans le cadre de l'exposition collective **« Éloges de l'image manquante »**, présentée lors de la 19e édition de la biennale MOMENTA. Ce projet de grande envergure se déploie au Musée d'art contemporain de Montréal (MAC), actuellement situé à Place Ville Marie. L'installation explore les tensions postcoloniales et la mémoire collective à travers le prisme du sport et de l'histoire. Au cœur de cette démarche, l'artiste propose une réflexion sur la psychologie sociale nationale , utilisant des archives pour mettre en lumière les silences et les non-dits des relations entre la France et l'Algérie. L'œuvre nous invite à une méditation sur la manière dont les espaces publics, comme un stade de football, deviennent des lieux de confrontation identitaire.
+N'hésitez pas à vous référer en consuleten ce lien (https://momentabiennale.com/wp-content/uploads/2025/08/Signaletique-PlainText-Joumaa.pdf)
 
 # QUI EST JOYCE JOUMAA
 Joyce Joumaa est une artiste visuelle, vidéaste et autrice libano-canadienne qui vit et travaille entre Montréal, Beyrouth et Amsterdam. Sa pratique interdisciplinaire examine les structures politiques et architecturales à travers la vidéo et les archives. Elle s'intéresse particulièrement aux micro-histoires et à la politique de l'espace, cherchant à comprendre comment le passé façonne notre présent.
 
-![photo](media/)  
+![photo](media/joyce_joumaa.png)
+
 >Capture d'écran du site web <https://macm.org/expositions/momenta-eloges/> consulté le 13 fevrier 2026. 
 
 
