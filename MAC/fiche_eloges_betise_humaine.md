@@ -15,7 +15,7 @@ Joyce Joumaa est une artiste visuelle, vidéaste et autrice libano-canadienne qu
 # DESCRIPTION DE L'OEUVRE
 L'œuvre est une installation vidéo contemplative d'une grande puissance symbolique. Le dispositif utilise un montage complexe juxtaposant des images d'archives du match de football amical France-Algérie d'octobre 2001 avec des scènes du film classique La Bataille d'Alger (1966) de Gillo Pontecorvo. La dimension multimédia est ici utilisée pour créer un choc visuel et temporel : le spectateur observe l'interruption du match par les supporters alors que les images de fiction historique rappellent la lutte pour l'indépendance, créant un dialogue direct entre le sport et la guerre. (3)
 
-# REFERECE
+# REFERENCE
 1)**<https://macm.org/expositions/momenta-eloges/>** consulté le 13 fevrier 2026. 
 2)**<[https://macm.org/expositions/momenta-eloges/](https://momentabiennale.com/exhibit/betise-humaine/)>** consulté le 13 fevrier 2026. 
 3)**<[https://macm.org/expositions/momenta-eloges/](https://momentabiennale.com/wp-content/uploads/2025/08/Signaletique-PlainText-Joumaa.pdf)>** consulté le 13 fevrier 2026. 
