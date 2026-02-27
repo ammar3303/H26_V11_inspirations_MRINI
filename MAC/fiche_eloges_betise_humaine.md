@@ -6,6 +6,10 @@ L'œuvre de l'artiste Joyce Joumaa, intitulée *Bêtise humaine* (2025), s'inscr
 # QUI EST JOYCE JOUMAA
 Joyce Joumaa est une artiste visuelle, vidéaste et autrice libano-canadienne qui vit et travaille entre Montréal, Beyrouth et Amsterdam. Sa pratique interdisciplinaire examine les structures politiques et architecturales à travers la vidéo et les archives. Elle s'intéresse particulièrement aux micro-histoires et à la politique de l'espace, cherchant à comprendre comment le passé façonne notre présent.
 
+![photo](media/)  
+>Capture d'écran du site web <https://macm.org/expositions/momenta-eloges/> consulté le 13 fevrier 2026. 
+
+
 # DESCRIPTION DE L'OEUVRE
 L'œuvre est une installation vidéo contemplative d'une grande puissance symbolique. Le dispositif utilise un montage complexe juxtaposant des images d'archives du match de football amical France-Algérie d'octobre 2001 avec des scènes du film classique La Bataille d'Alger (1966) de Gillo Pontecorvo. La dimension multimédia est ici utilisée pour créer un choc visuel et temporel : le spectateur observe l'interruption du match par les supporters alors que les images de fiction historique rappellent la lutte pour l'indépendance, créant un dialogue direct entre le sport et la guerre.
 
