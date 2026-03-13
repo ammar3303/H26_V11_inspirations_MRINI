@@ -33,7 +33,7 @@ Il permet de visionner le match France VS Algérie et les moments de la guerre d
 Les Haut-parleurs et la Spatialisation :
 Le son est souvent diffusé de manière directionnelle. Les haut-parleurs ne sont pas cachés ; ils font partie de l'esthétique de l'œuvre. Ils diffusent les voix off et les sons d'ambiance du site de Tripoli, créant une bulle sonore qui isole le spectateur du reste de la galerie.
 
-![photo](media/05_ecrant.png) ![photo](media/06_haut_parleur.png) ![photo](media/07_projecteur.png) ![photo](media/08_spote_lumineux.png)
+![photo](media/04_vue_dansemble.png) ![photo](media/05_ecrant.png) ![photo](media/06_haut_parleur.png) ![photo](media/07_projecteur.png) 
 >**Ces images montre les composent de l'oeuvre dede Joyce Joumaa**. (Photos prises par moi, le 4 mars 2026.)
 
 # RÉFLEXION PERSONNELLE
