@@ -18,7 +18,7 @@ Joyce Joumaa est une artiste visuelle, vidéaste et autrice libano-canadienne qu
 
 
 # DESCRIPTION DE L'OEUVRE
-L'œuvre est une installation vidéo contemplative d'une grande puissance symbolique. Le dispositif utilise un montage complexe juxtaposant des images d'archives du match de football amical France-Algérie d'octobre 2001 avec des scènes du film classique La Bataille d'Alger (1966) de Gillo Pontecorvo. La dimension multimédia est ici utilisée pour créer un choc visuel et temporel : le spectateur observe l'interruption du match par les supporters alors que les images de fiction historique rappellent la lutte pour l'indépendance, créant un dialogue direct entre le sport et la guerre. (3)
+L'œuvre de Joyce Joumaa, est une installation vidéo contemplative d'une grande puissance symbolique. Le dispositif utilise un montage video complexe juxtaposant des images d'archives du match de soccer (football) amical qui a opposé la France à l'Algérie en octobre 2001 avec des scènes du film **La Bataille d'Alger de 1966** de Gillo Pontecorvo. La dimension multimédia est ici utilisée pour créer un choc visuel et temporel : le spectateur observe l'interruption du match par les supporters alors que les images de fiction historique rappellent la lutte pour l'indépendance, créant un dialogue direct entre les souvenire de la guerre et l'invation du terain de soccer. (3)
 
 ![photo](media/07_vue_dansemble.png)
 >**Vue d'ensemble de la mise en espace de l'œuvre**.(Photos prises par moi, le 4 mars 2026.)
