@@ -13,14 +13,14 @@ N'hésitez pas à vous y référer en consultant ce lien (https://momentabiennal
 # QUI EST JOYCE JOUMAA
 Joyce Joumaa est une artiste visuelle, vidéaste et autrice libano-canadienne qui vit et travaille entre Montréal, Beyrouth et Amsterdam. Sa pratique interdisciplinaire examine les structures politiques et architecturales à travers la vidéo et les archives. Elle s'intéresse particulièrement aux micro-histoires et à la politique de l'espace, cherchant à comprendre comment le passé façonne notre présent. (1)
 
-![photo](media/joyce_joumaajpg)
+![photo](media/03_joyce_joumaajpg)
 >Capture d'écran du site web <https://macm.org/expositions/momenta-eloges/> consulté le 13 fevrier 2026. 
 
 
 # DESCRIPTION DE L'OEUVRE
 L'œuvre de Joyce Joumaa, est une installation vidéo contemplative d'une grande puissance symbolique. Le dispositif utilise un montage video complexe juxtaposant des images d'archives du match de soccer (football) amical qui a opposé la France à l'Algérie en octobre 2001 avec des scènes du film **La Bataille d'Alger de 1966** de Gillo Pontecorvo. La dimension multimédia est ici utilisée pour créer un choc visuel et temporel : le spectateur observe l'interruption du match par les supporters alors que les images de fiction historique rappellent la lutte pour l'indépendance, créant un dialogue direct entre les souvenire de la guerre et l'invation du terain de soccer. (3)
 
-![photo](media/07_vue_dansemble.png)
+![photo](media/04_vue_dansemble.png)
 >**Vue d'ensemble de la mise en espace de l'œuvre**.(Photos prises par moi, le 4 mars 2026.)
 
 # COMPOSANTES TECHNIQUES
@@ -33,7 +33,7 @@ Il permet de visionner le match France VS Algérie et les moments de la guerre d
 Les Haut-parleurs et la Spatialisation :
 Le son est souvent diffusé de manière directionnelle. Les haut-parleurs ne sont pas cachés ; ils font partie de l'esthétique de l'œuvre. Ils diffusent les voix off et les sons d'ambiance du site de Tripoli, créant une bulle sonore qui isole le spectateur du reste de la galerie.
 
-![photo](media/03_ecrant.png) ![photo](media/04_haut_parleur.png) ![photo](media/05_projecteur.png) ![photo](media/06_spote_lumineux.png)
+![photo](media/05_ecrant.png) ![photo](media/06_haut_parleur.png) ![photo](media/07_projecteur.png) ![photo](media/08_spote_lumineux.png)
 >**Ces images montre les composent de l'oeuvre dede Joyce Joumaa**. (Photos prises par moi, le 4 mars 2026.)
 
 # RÉFLEXION PERSONNELLE
