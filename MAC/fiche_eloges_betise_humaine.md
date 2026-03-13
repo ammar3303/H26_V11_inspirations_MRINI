@@ -37,7 +37,7 @@ Le son est souvent diffusé de manière directionnelle. Les haut-parleurs ne son
 >**Ces images montre les composent de l'oeuvre dede Joyce Joumaa**. (Photos prises par moi, le 4 mars 2026.)
 
 # RÉFLEXION PERSONNELLE
-Ce qui m'a le plus impressionné dans le travail de Joyce Joumaa, Sesent les vidéos et les installations, on a l'impression que le temps est "bloqué". C'est une réflexion sur l'échec politique : quand les dirigeants se battent ou abandonnent des projets, ce sont des quartiers entiers et des vies qui s'arrêtent de progresser. Son œuvre nous force à regarder ce "temps mort" que l'on essaie d'habitude d'ignorer. L'artiste ne se contente pas de projeter un film ; elle crée une histoire qui raconte un moment historique perdu. 
+Ce qui m'a le plus impressionné dans le travail de Joyce Joumaa, ce sont les vidéos et les installations, on a l'impression que le temps est "bloqué". C'est une réflexion sur l'échec politique : quand les dirigeants se battent ou abandonnent des projets, ce sont des quartiers entiers et des vies qui s'arrêtent de progresser. Son œuvre nous force à regarder ce "temps mort" que l'on essaie d'habitude d'ignorer. L'artiste ne se contente pas de projeter un film ; elle crée une histoire qui raconte un moment historique perdu.
 
 
 # REFERENCE
