@@ -13,7 +13,7 @@ N'hésitez pas à vous y référer en consultant ce lien (https://momentabiennal
 # QUI EST JOYCE JOUMAA
 Joyce Joumaa est une artiste visuelle, vidéaste et autrice libano-canadienne qui vit et travaille entre Montréal, Beyrouth et Amsterdam. Sa pratique interdisciplinaire examine les structures politiques et architecturales à travers la vidéo et les archives. Elle s'intéresse particulièrement aux micro-histoires et à la politique de l'espace, cherchant à comprendre comment le passé façonne notre présent. (1)
 
-![photo](media/joyce_joumaa.png)
+![photo](media/joyce_joumaa.jpg)
 >Capture d'écran du site web <https://macm.org/expositions/momenta-eloges/> consulté le 13 fevrier 2026. 
 
 
