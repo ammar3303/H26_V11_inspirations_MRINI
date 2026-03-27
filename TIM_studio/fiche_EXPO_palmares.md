@@ -16,3 +16,10 @@
 
 # MA RÉFLEXION PERSONNELLE SUR L'EXPO TIM
 J'ai aimer l projet Océan rouge de  Amira Tounekti et Kristy Moussally parce que sa rapelle des jeux d'arcade et en plus d'inssité les gens à netoyer les océon il le fond avec un univerret de jeux 
+
+![photo](img/img_source_terminal.png) 
+![photo](img/img_source_ocean_rouge.png) 
+![photo](img/img_source_Quand-les-yeux-se-croisent.png) 
+![photo](img/img_source_mission-decollage.png) 
+![photo](img/img_source_arbre_en_face.png) 
+![photo](img/img_source_symbiose.webp) 
