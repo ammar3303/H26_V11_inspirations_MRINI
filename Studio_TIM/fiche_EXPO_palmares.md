@@ -7,7 +7,7 @@
 6) Quand les yeux se croisent
 
 # Titre du projet ET Noms des créateurs et créatrices
-# Océan rouge = **Amira Tounekti et Kristy Moussally**
+# Océan rouge = **Amira Tounekti et Kristy Moussally**  ![photo](img/img_source_terminal.png) 
 # Symbiose = **Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour**
 # Terminal = **Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger**
 # Arbre-en-face = **Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube**
