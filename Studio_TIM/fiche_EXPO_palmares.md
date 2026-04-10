@@ -8,10 +8,10 @@
 
 # Titre du projet ET Noms des créateurs et créatrices
 # Océan rouge = **Amira Tounekti et Kristy Moussally**  ![photo](img/cartel.jpeg) 
-# Symbiose = **Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour** ![photo](img/cartel_syboise.png) 
-# Terminal = **Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger** ![photo](img/cartel_terminal.png) 
+# Symbiose = **Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour**   ![photo](img/cartel_syboise.png) 
+# Terminal = **Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger** ![photo](img/cartel_terminal.jpg) 
 # Arbre-en-face = **Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube** 
-# Mission Décollage = **Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi** ![photo](img/cartel_mission_decollage.png) 
+# Mission Décollage = **Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi** ![photo](img/cartel_mission_decollage.jpg) 
 # Quand les yeux se croisent = **Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif** 
 
 # MA RÉFLEXION PERSONNELLE SUR L'EXPO TIM
