@@ -1,6 +1,6 @@
 # MON EXPÉRIENCE À l'EXPOSITION Réseau vivant au studio TIM 
 
-![photo](img/moi.png)  
+![photo](img/moi.jpg)  
 >**Moi devant l'exposition « Réseau vivant », située au studio TIM du cegep Momontrency .** (Photo prise par Alicia Castilloux, le 16 mars 2026.)
 
 # L'EXPOSITION ET SON CONTEXTE
