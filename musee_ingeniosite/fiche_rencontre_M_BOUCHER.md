@@ -42,4 +42,3 @@ Cette conférence a été enrichissante, car elle a permis de découvrir concrè
 
 ---
 
-*Rédigé à la suite de la conférence de M. Boucher, technicien au Musée de l'ingéniosité J.-Armand Bombardier, Valcourt.*
