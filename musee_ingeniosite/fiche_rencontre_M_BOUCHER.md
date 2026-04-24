@@ -18,19 +18,19 @@ M. Boucher a aussi abordé l'écosystème technologique utilisé au musée : les
 
 ### Images — Dispositifs présentés lors de la visite
 
-![Bogie du métro — dispositif interactif du Musée de l'ingéniosité J.-Armand Bombardier](bogie_metromusee_ingeniosite_photo_SF.jpeg)
+![Bogie du métro — dispositif interactif du Musée de l'ingéniosité J.-Armand Bombardier](img/bogie_metromusee_ingeniosite_photo_SF.jpeg)
 
 *Figure 1 : Le bogie du métro, dispositif interactif permettant aux visiteurs de trouver cinq fréquences de vibrations. Source : Photo personnelle prise au Musée de l'ingéniosité J.-Armand Bombardier, Valcourt.*
 
 ---
 
-![Cartel du Garage Bombardier — Musée de l'ingéniosité J.-Armand Bombardier](cartel_musee_ingeniosite_photo_SF.jpeg)
+![Cartel du Garage Bombardier — Musée de l'ingéniosité J.-Armand Bombardier](img/cartel_musee_ingeniosite_photo_SF.jpeg)
 
 *Figure 2 : Cartel explicatif du Garage Bombardier, où Joseph-Armand Bombardier a amorcé sa carrière d'inventeur en 1926. Source : Photo personnelle prise au Musée de l'ingéniosité J.-Armand Bombardier, Valcourt.*
 
 ---
 
-![Plan de la salle — croquis réalisé lors de la conférence de M. Boucher](plan_salle.jpeg)
+![Plan de la salle — croquis réalisé lors de la conférence de M. Boucher](img/plan_salle.jpeg)
 
 *Figure 3 : Plan de la salle présenté par M. Boucher lors de la conférence, illustrant la disposition des haut-parleurs, projecteurs et surfaces de projection. Source : Notes personnelles de cours.*
 
