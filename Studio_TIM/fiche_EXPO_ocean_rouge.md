@@ -17,7 +17,9 @@ Il s'agit d'une installation multimédia dont le but est de créer un mouvement 
 
 **Océan Rouge** est une installation immersive qui plonge le visiteur dans un univers marin menacé par la pollution. L'œuvre joue sur la participation collective : chaque visiteur devient un acteur du changement, contribuant par ses actions à un mouvement de sauvegarde de l'environnement marin. L'installation utilise des projections visuelles, une ambiance sonore et des interactions numériques pour créer une expérience sensorielle forte et engagée.
 
-Le titre « Océan Rouge » évoque à la fois la menace qui pèse sur les écosystèmes marins et l'urgence d'agir collectivement. La couleur rouge, associée au danger et à l'alerte, contraste avec l'imaginaire habituel de l'océan bleu et paisible, soulignant ainsi la gravité de la situation environnementale.
+Le titre « Océan Rouge » évoque à la fois la menace qui pèse sur les écosystèmes marins et l'urgence d'agir collectivement. La couleur rouge, associée au danger et à l'alerte, contraste avec l'imaginaire habituel de l'océan bleu et paisible, soulignant ainsi la gravité de la situation environnementale. voici une image demestratife 
+![photo](img/chema_demanstratif.png)
+> **L’interacteur manipule le joystick, qui modifie la position de la pompe à déchets et active le bras mécanique.** (Photo prise par https://deux-intelligence.github.io/deux-neurones/#/concept/, le 1 mai 2026. lien du site dans la reference ) 
 
 
 # COMPOSANTES TECHNIQUES
