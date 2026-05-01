@@ -46,5 +46,4 @@ Ce qui m'a le plus impressionné dans le travail de Joyce Joumaa, ce sont les vi
 
 # REFERENCE
 1)**<https://www.centredessciencesdemontreal.com/exposition-permanente/explore>** consulté le 17 avril 2026. 
-2)**<[https://macm.org/expositions/momenta-eloges/](https://momentabiennale.com/exhibit/betise-humaine/)>** consulté le 17 avril 2026. 
-3)**<[https://macm.org/expositions/momenta-eloges/](https://momentabiennale.com/wp-content/uploads/2025/08/Signaletique-PlainText-Joumaa.pdf)>** consulté le 17 avril 2026. 
+
